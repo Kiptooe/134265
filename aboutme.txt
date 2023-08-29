@@ -1,0 +1,5 @@
+## About me
+
+Full names: Sammy Emmanuel Kiptoo
+Admission: 134265
+Project Title: A Real-time Course Selection and Placement Web Application: A Case of KUCCPS
